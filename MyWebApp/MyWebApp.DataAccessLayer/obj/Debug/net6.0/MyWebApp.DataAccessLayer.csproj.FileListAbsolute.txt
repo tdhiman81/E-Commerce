@@ -1,0 +1,51 @@
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.deps.json
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.runtimeconfig.json
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.pdb
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.Models.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.Models.pdb
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.AssemblyReference.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.AssemblyInfoInputs.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.AssemblyInfo.cs
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.CopyComplete
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\refint\MyWebApp.DataAccessLayer.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.pdb
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.genruntimeconfig.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\ref\MyWebApp.DataAccessLayer.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.deps.json
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.runtimeconfig.json
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.pdb
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.Models.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.Models.pdb
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.AssemblyInfo.cs
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.CopyComplete
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\refint\MyWebApp.DataAccessLayer.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.pdb
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.genruntimeconfig.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\ref\MyWebApp.DataAccessLayer.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.deps.json
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.runtimeconfig.json
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.DataAccessLayer.pdb
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.Models.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\bin\Debug\net6.0\MyWebApp.Models.pdb
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.AssemblyInfo.cs
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.csproj.CopyComplete
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\refint\MyWebApp.DataAccessLayer.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.pdb
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\MyWebApp.DataAccessLayer.genruntimeconfig.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.DataAccessLayer\obj\Debug\net6.0\ref\MyWebApp.DataAccessLayer.dll

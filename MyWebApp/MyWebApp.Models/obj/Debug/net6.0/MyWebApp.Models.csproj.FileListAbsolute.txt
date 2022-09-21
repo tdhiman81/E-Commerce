@@ -1,0 +1,36 @@
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.deps.json
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.pdb
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.AssemblyReference.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfoInputs.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfo.cs
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\refint\MyWebApp.Models.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.pdb
+D:\ASP.Net Core\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\ref\MyWebApp.Models.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.deps.json
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.pdb
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.AssemblyReference.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfoInputs.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfo.cs
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\refint\MyWebApp.Models.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.pdb
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\ref\MyWebApp.Models.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.deps.json
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.pdb
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.AssemblyReference.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfoInputs.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfo.cs
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\refint\MyWebApp.Models.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.pdb
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\ref\MyWebApp.Models.dll

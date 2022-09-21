@@ -1,0 +1,89 @@
+﻿@model MyWebApp.Models.ViewModel.CartVM
+<form method="post">
+    <main>
+        <div class="py-5 text-lg-start ">
+            <h2>Shipping Address</h2>
+        </div>
+        <div class="row g-5">
+        
+            <div class="col-md-6 col-lg-6 order-md-last">
+                <h4 class="d-flex justify-content-between align-items-center mb-3">
+                    <span class="text-primary">Summary</span>
+                </h4>
+                <div class="list-group mb-5">
+                    @foreach (var details in @Model.ListOfCart)
+                    {
+                        <li class="list-group-item d-flex justify-content-between lh-sm">
+                            <span>@details.Product.Name</span>
+                            <span> QTY: @details.Count</span>
+                            <span>@(((details.Product.Price) * (details.Count)).ToString("c"))</span>
+                        </li>
+                    }
+
+                    <li class="list-group-item d-flex justify-content-between lh-sm">
+                        <div>
+                            <strong>Total Amount</strong>
+                            <strong>
+                                <p class="mb-0">(including VAT)</p>
+                            </strong>
+                            <span><strong>@Model.OrderHeader.OrderTotal</strong></span>
+                        </div>
+
+
+                    </li>
+
+                </div>
+
+
+                <div class="col-md-7 col-lg-8">
+                    <form class="needs-validation" novalidate>
+                        <div class="row g-3">
+                            <div class="col-12">
+                                <label for="Name" class="form-label">Name</label>
+                                <input type="text" class="form-control" asp-for="@Model.OrderHeader.ApplicationUser.Name" />
+
+                            </div>
+                        </div>
+
+
+                        <div class="col-12">
+                            <label for="Phone" class="form-label">Phone <span class="text-muted"></span></label>
+                            <input type="number" class="form-control" asp-for="@Model.OrderHeader.ApplicationUser.PhoneNumber" />
+
+                        </div>
+
+
+                        <div class="col-12">
+                            <label for="address" class="form-label">Address</label>
+                            <input type="text" class="form-control" asp-for="@Model.OrderHeader.ApplicationUser.Address" />
+
+                        </div>
+
+                        <div class="col-12">
+                            <label for="City" class="form-label">City<span class="text-muted"></span></label>
+                            <input type="text" class="form-control" asp-for="@Model.OrderHeader.ApplicationUser.City" />
+                        </div>
+
+                        <div class="col-12">
+                            <label for="State" class="form-label">State <span class="text-muted"></span></label>
+                            <input type="text" class="form-control" asp-for="@Model.OrderHeader.ApplicationUser.State" />
+
+                        </div>
+
+                        <div class="col-12">
+                            <label for="PostalCode" class="form-label">Postal Code <span class="text-muted"></span></label>
+                            <input type="text" class="form-control" asp-for="@Model.OrderHeader.ApplicationUser.Pincode" />
+
+                        </div>
+
+
+                        <hr class="my-4">
+
+                        <button class="w-100 btn btn-danger btn-lg" type="submit">Continue to checkout</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </main>
+</form>

@@ -1,0 +1,36 @@
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.deps.json
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.pdb
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.AssemblyReference.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfoInputs.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfo.cs
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.CoreCompileInputs.cache
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\refint\MyWebApp.CommonHelper.dll
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.pdb
+D:\ASP.Net Core\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\ref\MyWebApp.CommonHelper.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.deps.json
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.pdb
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.AssemblyReference.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfoInputs.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfo.cs
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.CoreCompileInputs.cache
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\refint\MyWebApp.CommonHelper.dll
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.pdb
+D:\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\ref\MyWebApp.CommonHelper.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.deps.json
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.pdb
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.AssemblyReference.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfoInputs.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfo.cs
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\refint\MyWebApp.CommonHelper.dll
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.pdb
+C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\ref\MyWebApp.CommonHelper.dll
