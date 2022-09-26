@@ -34,3 +34,15 @@ C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp
 C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\refint\MyWebApp.CommonHelper.dll
 C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.pdb
 C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\ref\MyWebApp.CommonHelper.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.deps.json
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\bin\Debug\net6.0\MyWebApp.CommonHelper.pdb
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.AssemblyReference.cache
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfoInputs.cache
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.AssemblyInfo.cs
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.csproj.CoreCompileInputs.cache
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\refint\MyWebApp.CommonHelper.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\MyWebApp.CommonHelper.pdb
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.CommonHelper\obj\Debug\net6.0\ref\MyWebApp.CommonHelper.dll

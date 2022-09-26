@@ -63,8 +63,6 @@ namespace MyWebApp.DataAccessLayer.Infrastructure.Repository
                 }
             }
             return query.FirstOrDefault();
-        }
-
-       
+        }     
     }
 }

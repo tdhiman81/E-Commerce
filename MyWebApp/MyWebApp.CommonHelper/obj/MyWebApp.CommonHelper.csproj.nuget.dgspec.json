@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {}
+    "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {}
   },
   "projects": {
-    "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {
+    "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
+        "projectUniqueName": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
         "projectName": "MyWebApp.CommonHelper",
-        "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
+        "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
         "packagesPath": "C:\\Users\\m2m\\.nuget\\packages\\",
-        "outputPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\obj\\",
+        "outputPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m2m\\AppData\\Roaming\\NuGet\\NuGet.Config",

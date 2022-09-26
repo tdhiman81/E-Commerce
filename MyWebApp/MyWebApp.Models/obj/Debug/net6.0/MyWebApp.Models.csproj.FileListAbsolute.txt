@@ -34,3 +34,15 @@ C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Model
 C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\refint\MyWebApp.Models.dll
 C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.pdb
 C:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\ref\MyWebApp.Models.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.deps.json
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\bin\Debug\net6.0\MyWebApp.Models.pdb
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.AssemblyReference.cache
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfoInputs.cache
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.AssemblyInfo.cs
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\refint\MyWebApp.Models.dll
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\MyWebApp.Models.pdb
+D:\Git-Repos\E-Commerce\MyWebApp\MyWebApp.Models\obj\Debug\net6.0\ref\MyWebApp.Models.dll

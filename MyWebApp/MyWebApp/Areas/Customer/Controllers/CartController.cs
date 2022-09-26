@@ -100,8 +100,8 @@ namespace MyWebApp.Areas.Customer.Controllers
       
         public IActionResult Summary(CartVM vM)
         {
-            var claimsIdentity = (ClaimsIdentity)User.Identity;
-            var claims = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+            var claimsIdentity = (ClaimsIdentity)User?.Identity;
+            var claims = claimsIdentity?.FindFirst(ClaimTypes.NameIdentifier);
 
             vM.ListOfCart = _unitOfWork.Cart.GetAll(x => x.ApplicationUserId == claims.Value, includeProperties: "Product");
             vM.OrderHeader.OrderStatus = OrderStatus.StatusPending;
@@ -123,6 +123,7 @@ namespace MyWebApp.Areas.Customer.Controllers
                 {
                     ProductId = item.ProductId,
                     OrderHeaderId = vM.OrderHeader.Id,
+
                     Price = item.Product.Price,
                     Count = item.Count
                 };

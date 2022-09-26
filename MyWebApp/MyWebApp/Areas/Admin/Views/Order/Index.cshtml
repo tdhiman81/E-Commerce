@@ -5,11 +5,18 @@
         <div class="col-6">
             <h2 class="text-primary">List Of Orders</h2>
         </div>
+        <div class="col-6">
+            <a asp-controller="Order" asp-action="Index" asp-route-staus="pending">
+                Pending
+            </a>
+            <a asp-controller="Order" asp-action="Index" asp-route-status="approved">
+                Approved
+            </a>
+        </div>
     </div>
-    
-
 
 </div>
+
 <table id="myTable" class=" table table-bordered table-striped" style="width:100%">
     <thead>
         <tr>
@@ -39,9 +46,9 @@
     </tr>
 
     }
-    </tbody>*@  
+    </tbody>*@
 </table>
 
 @section scripts{
-  0 <script src="~/js/Order.js"></script>
+               <script src="~/js/Order.js"></script>
 }

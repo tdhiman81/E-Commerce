@@ -7,13 +7,15 @@
 <div class="row pb-4">
     @foreach (var item in @Model)
     {
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="@item.ImageUrl" alt="Card image cap">
-            <div class="card-body">
-                <h5 class="card-title">@item.Name</h5>
-                <p class="card-text">Price: @item.Price.ToString("0.00")</p>
-                <a asp-action="Details" asp-controller="Home" asp-route-ProductId="@item.Id"
-               class="btn btn-primary">Details</a>
+        <div class="col-3 mx-auto m-1">
+            <div class="card" style="width: 14rem;">
+                <img class="card-img-top" src="@item.ImageUrl" alt="Card image cap" width="80" height="200">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">Price: @item.Price.ToString("0.00")</p>
+                    <a asp-action="Details" asp-controller="Home" asp-route-ProductId="@item.Id"
+                   class="btn btn-primary">Details</a>
+                </div>
             </div>
         </div>
     }

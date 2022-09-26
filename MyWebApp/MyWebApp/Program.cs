@@ -12,6 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 
+
+
 builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders()
     .AddEntityFrameworkStores<MyWebApp.DataAccessLayer.Data.ApplicationDbContext>();
 

@@ -8625,11 +8625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
       "projectName": "MyWebApp.DataAccessLayer",
-      "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
+      "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\m2m\\.nuget\\packages\\",
-      "outputPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\obj\\",
+      "outputPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m2m\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8646,8 +8646,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
-              "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj"
+            "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
+              "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj"
             }
           }
         }

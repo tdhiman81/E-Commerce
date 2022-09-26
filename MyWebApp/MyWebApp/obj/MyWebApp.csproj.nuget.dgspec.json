@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {}
+    "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {
+    "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
+        "projectUniqueName": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
         "projectName": "MyWebApp.CommonHelper",
-        "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
+        "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj",
         "packagesPath": "C:\\Users\\m2m\\.nuget\\packages\\",
-        "outputPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\obj\\",
+        "outputPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m2m\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj": {
+    "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
         "projectName": "MyWebApp.DataAccessLayer",
-        "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
+        "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\m2m\\.nuget\\packages\\",
-        "outputPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\obj\\",
+        "outputPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m2m\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
-                "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj"
+              "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
+                "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
+    "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj",
+        "projectUniqueName": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj",
         "projectName": "MyWebApp.Models",
-        "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj",
+        "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj",
         "packagesPath": "C:\\Users\\m2m\\.nuget\\packages\\",
-        "outputPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\obj\\",
+        "outputPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m2m\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,14 +221,14 @@
         }
       }
     },
-    "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {
+    "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\m2m\\.nuget\\packages\\",
-        "outputPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\obj\\",
+        "outputPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m2m\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -245,14 +245,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {
-                "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj"
+              "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj": {
+                "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.CommonHelper\\MyWebApp.CommonHelper.csproj"
               },
-              "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj"
+              "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj": {
+                "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.DataAccessLayer\\MyWebApp.DataAccessLayer.csproj"
               },
-              "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
-                "projectPath": "C:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj"
+              "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj": {
+                "projectPath": "D:\\Git-Repos\\E-Commerce\\MyWebApp\\MyWebApp.Models\\MyWebApp.Models.csproj"
               }
             }
           }
