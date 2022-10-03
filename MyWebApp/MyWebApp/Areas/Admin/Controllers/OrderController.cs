@@ -60,6 +60,7 @@ namespace MyWebApp.Areas.Admin.Controllers
         public IActionResult Index()
         {
             return View();
+
         }
 
         public IActionResult Orderdetails(int id)

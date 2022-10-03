@@ -126,7 +126,6 @@ namespace MyWebApp.Controllers
             }
             return RedirectToAction("Index");
 
-
         }
         //[HttpGet]
         //public IActionResult Delete(int id)

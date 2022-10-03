@@ -27,7 +27,7 @@ function OrderTable(status) {
                     "data": 'id',
                     "render": function (data) {
                         return `
-                        <a href="/Admin/Order/AllOrders?id=${data}"><i class="bi bi-pencil-square"> </i></a>
+                        <a href="/Admin/Order/OrderDetails?id=${data}"><i class="bi bi-pencil-square"> </i></a>
                   ` }
                 } 
 
@@ -35,4 +35,4 @@ function OrderTable(status) {
 
     });
 
- }
+ } 
